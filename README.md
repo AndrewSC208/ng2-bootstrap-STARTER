@@ -7,10 +7,10 @@
 
 ^^^ above was last step ^^^
 
--build home feature module
--build kitchen sink reature module
--build feature module for different layout example pages.
--setup basic router
+* build home feature module
+* build kitchen sink feature module
+* build feature module for different layout example pages
+* setup basic router
 
 THIS WILL BE THE A GREAT START FOR MOST WEBSITES, BLOGS, AND BRANDING SITES WHEN AOT COMPILER IS ENABLED. 
 
