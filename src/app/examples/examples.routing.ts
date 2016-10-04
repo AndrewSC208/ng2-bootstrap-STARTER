@@ -1,7 +1,7 @@
 import { Routes, RouterModule } from '@angular/router';
 import { ModuleWithProviders }  from '@angular/core';
-import { HomeComponent } from './home.component';
+import { ExamplesComponent } from './examples.component';
 
 export const routing: ModuleWithProviders = RouterModule.forChild([
-  { path: 'home', component: HomeComponent}
+  { path: 'examples', component: ExamplesComponent}
 ]);

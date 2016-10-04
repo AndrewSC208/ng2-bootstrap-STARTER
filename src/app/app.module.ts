@@ -12,6 +12,8 @@ import { MainNavComponent } from './shared/main-nav/main-nav.component';
 
 /* FEATURE MODULES */
 import { HomeModule } from './home/home.module';
+import { KitchenSinkModule } from './kitchen-sink/kitchen-sink.module';
+import { ExamplesModule } from './examples/examples.module';
 
 /* ROUTER */
 import { Ng2BoostrapSTARTERRoutingModule } from './app-routing.module';
@@ -27,6 +29,8 @@ import { Ng2BoostrapSTARTERRoutingModule } from './app-routing.module';
     HttpModule,
     NgbModule,
     HomeModule,
+    KitchenSinkModule,
+    ExamplesModule,
     Ng2BoostrapSTARTERRoutingModule
   ],
   providers: [],
